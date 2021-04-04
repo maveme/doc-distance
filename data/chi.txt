@@ -1,0 +1,5 @@
+CHI Papers are publications of original research in the field of Human Computer Interaction (HCI). They represent mature, complete research. CHI Papers are read and cited worldwide, and have a broad impact on the development of HCI theory, method, and practice.
+ 
+Authors must present accepted Papers at the CHI Conference. Accepted manuscripts appear in the Proceedings of the ACM Conference on Human Factors in Computing Systems, which appears in the ACM Digital Library. The ACM Digital Library includes a mechanism to enable authors to provide perpetual free public access to their papers.
+ 
+Accepted Papers may come from any arena of HCI activity: academia or industry; science, engineering, or craft; analysis or design. Acceptance is highly competitive: all accepted Papers will score highly on originality, significance, validity, and presentation quality. We are looking forward to seeing your best work!
